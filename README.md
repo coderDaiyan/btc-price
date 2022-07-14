@@ -1,11 +1,13 @@
-# fresh project
+# A bitcoin price checker application using [Fresh](https://fresh.deno.dev/)
 
 ### Usage
 
-Start the project:
+Run the project:
 
 ```
+git clone https://github.com/coderDaiyan/btc-price.git
+cd btc-price
 deno task start
 ```
 
-This will watch the project directory and restart as necessary.
+**Note**: You need to have [deno](https://deno.land/) installed
