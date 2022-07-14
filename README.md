@@ -1,5 +1,7 @@
 # A bitcoin price checker application using [Fresh](https://fresh.deno.dev/)
 
+### [Live Link](https://daiyanjs-btc-checker.deno.dev/)
+
 ### Usage
 
 Run the project:
